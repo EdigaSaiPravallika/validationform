@@ -1,0 +1,34 @@
+body{
+    background: rgb(242,156,194);
+    background: radial-gradient(circle, rgba(242,156,194,0.9360119047619048) 34%, rgba(167,202,244,1) 100%);}
+
+.col-md-5{
+    margin: 310px !important;
+    margin-bottom: 40%;
+    
+    background: rgb(90,237,238);
+background: linear-gradient(0deg, rgba(90,237,238,1) 15%, rgba(247,168,255,1) 100%);
+padding: 20px;
+}
+input{
+    margin-top: 20px;
+
+}
+button{
+    margin-top: 20px !important;
+    float: left;
+}
+.success{
+    border-color:4px solid rgb(4, 99, 4) ;
+}
+.error{
+    border-top: 4px solid red;
+}
+small{
+    color:  red;
+    font-weight: bold;
+    margin: 5px;
+    text-align: left !important ;
+
+
+}
